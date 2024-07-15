@@ -82,6 +82,7 @@ when:
       - brick
       - unix
       - vty
+      - vty-crossplatform
 
 executables:
   echidna:
